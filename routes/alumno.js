@@ -87,7 +87,7 @@ app.post('/', (req, res)=>{
         let mailOptions = {
             from: 'curso15@sapienslearning.com',
             to: alumno.email,
-            subject: `Re: Nuevo Curso SAP SD Ventas y Distribución`,
+            subject: `Nuevo Curso SAP SD Ventas y Distribución`,
             html: `
                 <p>Hola ${alumno.nombre}, ¿cómo estas? espero te encuentres bien.</p>
  
