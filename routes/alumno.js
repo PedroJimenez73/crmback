@@ -95,9 +95,9 @@ app.post('/', (req, res)=>{
                 
                 <p>Como el de MM, incluye todos los procesos avanzados de usuario, el customizing del módulo y la integración con los demás módulos de SAP, partiendo desde cero para llegar a nivel experto.</p>
                 
-                <p>Te dejo a continuación el enlace con el máximo descuento que nos permite Udemy para ti, tus familiares o amigos, disponible hasta el 5 de mayo:</p>
+                <p>Te dejo a continuación el enlace con el máximo descuento que nos permite Udemy para ti, tus familiares o amigos, disponible hasta el 9 de mayo:</p>
                 
-                <p><a href="https://www.udemy.com/course/curso-completo-consultor-sap-sd-desde-cero/?couponCode=84E7A0FC892B40192BE0">https://www.udemy.com/course/curso-completo-consultor-sap-sd-desde-cero/?couponCode=84E7A0FC892B40192BE0</a></p>
+                <p><a href="https://www.udemy.com/course/curso-completo-consultor-sap-sd-desde-cero/?couponCode=ED6808BE7B9FEE2F25BE">https://www.udemy.com/course/curso-completo-consultor-sap-sd-desde-cero/?couponCode=ED6808BE7B9FEE2F25BE</a></p>
                 
                 <p>Recuerda que te puedes inscribir ahora y realizarlo cuando quieras y siempre mantendrás el acceso a todos los cursos, para repasos, consultas, etc.</p>
                 
